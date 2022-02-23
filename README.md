@@ -9,8 +9,8 @@
 <hr/>
 
 <ul>
-    <li>👀 I’m interested in <strong>Web develpoment, App Development</strong></li>
-    <li>🌱 I’m currently learning <strong>Flutter</strong></li>
+    <li>👀 I am good at <strong>Web develpoment, App Development</strong></li>
+<!--     <li>🌱 I’m currently learning <strong>Flutter</strong></li> -->
     <li>💞️ I’m looking to collaborate on <strong>Reactjs</strong> projects</li>
     <li>📫 How to reach me <strong>anirudhsaladi7@gmail.com<strong></li>
  </ul>
